@@ -7,9 +7,9 @@ body {
 }
 
 .container {
-    margin: 0 auto;
-    padding: 4em 3% 2em 3%;
-    width: 500px;
+    margin: 3em auto;
+    max-width: 500px;
+    text-align: center;
 }
 
 a {
@@ -31,10 +31,6 @@ header {
     margin-bottom: 2em;
 }
 
-.inquire {
-    margin-left: 90px;
-}
-
 .name,
 .name a {
     color: #1e1e1e;
@@ -47,9 +43,7 @@ header {
 
 .logo {
     border: none;
-    float: left;
     height: 80px;
-    margin-right: 10px;
     width: 80px;
 }
 
