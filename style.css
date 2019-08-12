@@ -28,17 +28,19 @@ h6 {
 }
 
 header {
-    margin-bottom: 2em;
+    margin-bottom: 3em;
 }
 
 .name,
 .name a {
     color: #1e1e1e;
+    line-height: 1.25;
     text-decoration: none;
 }
 
 .tagline {
     color: #9196aa;
+    line-height: 1.25;
 }
 
 .logo {
