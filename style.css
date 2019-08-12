@@ -2,7 +2,7 @@ body {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     font-size: 16px;
     line-height: 1.5;
-    background-color: #fff;
+    background-color: #2e2b43;
     color: #d88e73;
 }
 
@@ -33,13 +33,13 @@ header {
 
 .name,
 .name a {
-    color: #1e1e1e;
+    color: #d4d4d4;
     line-height: 1.25;
     text-decoration: none;
 }
 
 .tagline {
-    color: #9196aa;
+    color: #494e72;
 }
 
 .logo {
