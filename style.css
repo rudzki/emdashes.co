@@ -44,8 +44,9 @@ header {
 
 .logo {
     border: none;
-    height: 80px;
-    width: 80px;
+    height: 100px;
+    width: auto;
+    margin-bottom: 1.5em;
 }
 
 li {
