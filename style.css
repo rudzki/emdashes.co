@@ -28,7 +28,7 @@ h6 {
 }
 
 header {
-    margin-bottom: 2.5em;
+    margin-bottom: 3em;
 }
 
 .name,
@@ -46,7 +46,7 @@ header {
     border: none;
     height: 100px;
     width: auto;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 li {
